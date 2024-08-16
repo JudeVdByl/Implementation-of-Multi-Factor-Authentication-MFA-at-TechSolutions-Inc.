@@ -53,7 +53,8 @@ Enhance the security posture of TechSolutions Inc. by implementing Multi-Factor 
 ## Visual References
 
 ### 1. Enhanced Stakeholder Interaction Diagram
-![Enhanced Stakeholder Interaction Diagram](https://github.com/user-attachments/assets/e5aa7ca4-c555-4796-b714-8fa1e35a2ab5)
+![Enhanced Stakeholder Interaction Diagram](https://github.com/user-attachments/assets/eb63ea9e-71c5-4276-9b13-33a5a9e8b3a4)
+
 
 
 This diagram represents the interaction among key stakeholders during the MFA implementation process.
