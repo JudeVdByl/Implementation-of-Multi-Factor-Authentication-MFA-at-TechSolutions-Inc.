@@ -60,7 +60,7 @@ Enhance the security posture of TechSolutions Inc. by implementing Multi-Factor 
 This diagram represents the interaction among key stakeholders during the MFA implementation process.
 
 ### 2. Advanced Network Security Architecture Diagram
-![Advanced Network Security Architecture Diagram](https://github.com/user-attachments/assets/900bf8fb-bab3-4be0-a4d3-9e2b40196988)
+![Advanced Network Security Architecture Diagram](https://github.com/user-attachments/assets/3b5604c0-1f59-4f2c-834d-ea3e2c87ae54)
 
 
 This diagram illustrates the network security architecture, showcasing the placement of the MFA system within the organization’s network.
